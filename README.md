@@ -124,6 +124,8 @@ SELECT*
 FROM[dbo].[Sales Data
 ```
 
+
+
 ---
 
 ## DATA VISUALIZATIONS
