@@ -179,6 +179,8 @@ The highest revenue comes from Hats (3.1 million), with Shirts (2.5 million) and
 **Top Customers:**
 The five top customers account for a total purchase amount of 4,468 units, with Cus1151 leading with 911 units. These customers represent valuable relationships and should be nurtured. These high-value customers are crucial for repeat business and long-term profitability.
 
+**There were no products with no sales in the last quarter**
+
 #### Reccomendations
 - Seasonal Promotions and Inventory Adjustments:
 To address monthly sales fluctuations, the organization should implement targeted promotions during low-demand months (e.g., February and December) to stimulate sales.The organization should Prepare for higher demand in peak months (July and October) by adjusting inventory levels and ensuring popular items like Hats and Shoes are well-stocked.
